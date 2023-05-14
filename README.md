@@ -1,4 +1,4 @@
-# LLM_construction_bot
+# LLM_architectural _bot
 目前打算做的就是通过chatglm实现一个建筑类对合规把控的一个私有模型。目前收集到政府相关建筑类的一些建筑规则文档。对文档解析做成chatglm ptuning（或者lora，还是倾向ptuning）
 需要的数据，训练glm框架完成私有llm模型。
 因为时间来不及，，目前只收集了数据和一些制作参考文档。
