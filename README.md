@@ -3,6 +3,9 @@
 需要的数据，训练glm框架完成私有llm模型。
 因为时间来不及，，目前只收集了数据和一些制作参考文档。
 
+### 基础数据
+raw_data_of_constructon_rules.docx
+
 ### 训练数据参考
 https://www.bilibili.com/video/BV1jN411w7o1/?spm_id_from=333.1007.top_right_bar_window_default_collection.content.click&vd_source=1a432a45372ea0a0d1ec88a20d9cef2c
 https://www.bilibili.com/video/BV1eL41127uC/?spm_id_from=333.999.0.0&vd_source=1a432a45372ea0a0d1ec88a20d9cef2c
